@@ -6,7 +6,7 @@ Teach your agent to make product films in code.
 
 There's no After Effects project behind these films. Every frame is code: TypeScript, a browser and a timeline. The skill teaches your coding agent (Claude Code) to build one inside your own app, with your real components, and hand you a first cut of your product in one session.
 
-**[Get the skill → $20 at launch (50% off)](https://buy.polar.sh/polar_cl_JpxRYYKV7tPIuQ91ZsTNE9mC1OgfxDn4mMcXt4dzj55)**
+**[Get the skill → $15 at launch (50% off)](https://buy.polar.sh/polar_cl_JpxRYYKV7tPIuQ91ZsTNE9mC1OgfxDn4mMcXt4dzj55)**
 
 ## How it works
 
